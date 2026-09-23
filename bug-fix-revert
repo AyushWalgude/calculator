@@ -1,0 +1,6 @@
+curl https://api.github.com/repos/AyushWalgude/mcino-Introduction-to-Git-and-GitHub/pulls/1 > bug-fix-revert
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/pulls/pulls#get-a-pull-request",
+  "status": "404"
+}
